@@ -10,4 +10,3 @@ UW-Madison (currently a Sophomore)
 😎Interests:
 * Web Development
 * Photography
-* 
