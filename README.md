@@ -11,4 +11,4 @@ Here is some more info about me...
 ### Interests:
 * Web Development (full stack)
 * Machine Learning
-* Photography
+* Painting
