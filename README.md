@@ -9,7 +9,6 @@ Here is some more info about me...
 - Degree: B.S Computer Science, B.S. Data Science.
 
 ### Interests:
-* Web Development 
-* Mobile Development
+* Fullstack Development (Web & Mobile) 
 * Football (Soccer) 
 * Painting
