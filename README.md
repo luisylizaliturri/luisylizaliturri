@@ -10,6 +10,7 @@ Here is some more info about me...
 - Degree: B.S Computer Science, B.S. Data Science, Minor in Mathematics
 
 ### Interests:
-* Fullstack Development (Web & Mobile)
+* Frontend -> Fullstack Development (Web & Mobile)
+* UI & UX Design 
 * Football (Soccer) 
 * Painting
