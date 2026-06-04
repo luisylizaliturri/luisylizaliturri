@@ -1,16 +1,10 @@
-### Hi there 👋
-
-My name is Luis Ylizaliturri, and I am a CS&DS student from Wisconsin, USA.
-
-Here is some more info about me...
-
-### Education: UW-Madison
+### LUIS, 22M
+- Taste Engineer
+- Fullstack Developer
+- UI & UX Design
+- Painter
+  
+### UW-Madison
 - GPA: 3.8/4
-- Expected Graduation: May 2026
+- Graduated: May 2026
 - Degree: B.S Computer Science, B.S. Data Science
-
-### Interests:
-* Fullstack Development (Web & Mobile)
-* UI & UX Design 
-* Football (Soccer) 
-* Painting
