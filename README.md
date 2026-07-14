@@ -1,5 +1,4 @@
 ### LUIS, 22M
-- Taste Engineer
 - Fullstack Developer
 - UI & UX Design
 - Painter
