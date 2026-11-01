@@ -1,7 +1,6 @@
 ### LUIS, 23M
-- Fullstack Developer
-- UI & UX Designer
-
+- Software Engineer
+  
 ### UW-Madison
 - GPA: 3.8/4
 - Graduated: May 2026
